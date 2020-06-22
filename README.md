@@ -1,2 +1,2 @@
-# My-bootstrap-site
-My first bootstrap site for cv
+# Bootstrap-site
+My firt bootstrap site

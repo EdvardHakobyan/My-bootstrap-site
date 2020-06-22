@@ -1,0 +1,28 @@
+#cont{
+    height: 800px;
+    background-image: url("images/bg-masthead.jpg");
+}
+#cont hr{
+    color: darkorange;
+}
+#naVig a{
+    color: lightcyan;
+    font-size: 40px;
+}
+#naVig span{
+    color: gray;
+}
+main{
+    background-color: #f4623a;
+    height: 400px;
+}
+@media only screen and (max-width: 992px) {
+   #naVig {
+        background-color: white;
+    }
+}
+@media only screen and (max-width: 992px) {
+   #naVig a{
+        color: black;
+    }
+}
